@@ -8,11 +8,19 @@ function App() {
   return (
     <div className="App">
       <h1>Fundamentos do React - Aula01</h1>
-     
-     <FirstComponent/>
-     <TemplateExpression/>
-     <MyComponent/>
-     <Event/>
+
+      <FirstComponent />
+      <TemplateExpression />
+      <MyComponent />
+      <Event />
+
+      <h2>Desafio 01:</h2>
+      <ul>
+        Lista de Alunos:
+        <li>Miguel</li>
+        <li>Morandini</li>
+      </ul>
+
     </div>
   );
 }
