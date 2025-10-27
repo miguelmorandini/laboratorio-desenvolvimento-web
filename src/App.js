@@ -3,6 +3,7 @@ import FirstComponent from './components/FirstComponent';
 import TemplateExpression from './components/TemplateExpression';
 import MyComponent from './components/MyComponent';
 import Event from "./components/Event";
+import Challenge from './components/Challenge';
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
         <li>Morandini</li>
       </ul>
 
+      <Challenge />
     </div>
   );
 }
