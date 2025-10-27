@@ -7,7 +7,7 @@ import Event from "./components/Event";
 function App() {
   return (
     <div className="App">
-      <h1>Fundamentos do React</h1>
+      <h1>Fundamentos do React - Aula01</h1>
      
      <FirstComponent/>
      <TemplateExpression/>
