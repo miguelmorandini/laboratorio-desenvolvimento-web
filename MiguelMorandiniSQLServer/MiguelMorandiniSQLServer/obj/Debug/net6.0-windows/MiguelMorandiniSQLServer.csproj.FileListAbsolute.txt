@@ -1,0 +1,48 @@
+C:\Users\alunodsm\source\repos\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\obj\Debug\net6.0-windows\MiguelMorandiniSQLServer.Form1.resources
+C:\Users\alunodsm\source\repos\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\obj\Debug\net6.0-windows\MiguelMorandiniSQLServer.csproj.GenerateResource.cache
+C:\Users\alunodsm\source\repos\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\obj\Debug\net6.0-windows\MiguelMorandiniSQLServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunodsm\source\repos\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\obj\Debug\net6.0-windows\MiguelMorandiniSQLServer.AssemblyInfoInputs.cache
+C:\Users\alunodsm\source\repos\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\obj\Debug\net6.0-windows\MiguelMorandiniSQLServer.AssemblyInfo.cs
+C:\Users\alunodsm\source\repos\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\obj\Debug\net6.0-windows\MiguelMorandiniSQLServer.csproj.CoreCompileInputs.cache
+C:\Users\alunodsm\source\repos\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\bin\Debug\net6.0-windows\MiguelMorandiniSQLServer.exe
+C:\Users\alunodsm\source\repos\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\bin\Debug\net6.0-windows\MiguelMorandiniSQLServer.deps.json
+C:\Users\alunodsm\source\repos\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\bin\Debug\net6.0-windows\MiguelMorandiniSQLServer.runtimeconfig.json
+C:\Users\alunodsm\source\repos\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\bin\Debug\net6.0-windows\MiguelMorandiniSQLServer.dll
+C:\Users\alunodsm\source\repos\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\bin\Debug\net6.0-windows\MiguelMorandiniSQLServer.pdb
+C:\Users\alunodsm\source\repos\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\alunodsm\source\repos\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\alunodsm\source\repos\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\alunodsm\source\repos\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\alunodsm\source\repos\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\alunodsm\source\repos\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\alunodsm\source\repos\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\obj\Debug\net6.0-windows\MiguelMorandiniSQLServer.csproj.AssemblyReference.cache
+C:\Users\alunodsm\source\repos\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\obj\Debug\net6.0-windows\MiguelMo.85277580.Up2Date
+C:\Users\alunodsm\source\repos\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\obj\Debug\net6.0-windows\MiguelMorandiniSQLServer.dll
+C:\Users\alunodsm\source\repos\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\obj\Debug\net6.0-windows\refint\MiguelMorandiniSQLServer.dll
+C:\Users\alunodsm\source\repos\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\obj\Debug\net6.0-windows\MiguelMorandiniSQLServer.pdb
+C:\Users\alunodsm\source\repos\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\obj\Debug\net6.0-windows\MiguelMorandiniSQLServer.genruntimeconfig.cache
+C:\Users\alunodsm\source\repos\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\obj\Debug\net6.0-windows\ref\MiguelMorandiniSQLServer.dll
+D:\DSM\4º Semestre - 2025\laboratorio-de-desenvolvimento-web\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\bin\Debug\net6.0-windows\MiguelMorandiniSQLServer.exe
+D:\DSM\4º Semestre - 2025\laboratorio-de-desenvolvimento-web\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\bin\Debug\net6.0-windows\MiguelMorandiniSQLServer.deps.json
+D:\DSM\4º Semestre - 2025\laboratorio-de-desenvolvimento-web\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\bin\Debug\net6.0-windows\MiguelMorandiniSQLServer.runtimeconfig.json
+D:\DSM\4º Semestre - 2025\laboratorio-de-desenvolvimento-web\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\bin\Debug\net6.0-windows\MiguelMorandiniSQLServer.dll
+D:\DSM\4º Semestre - 2025\laboratorio-de-desenvolvimento-web\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\bin\Debug\net6.0-windows\MiguelMorandiniSQLServer.pdb
+D:\DSM\4º Semestre - 2025\laboratorio-de-desenvolvimento-web\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\DSM\4º Semestre - 2025\laboratorio-de-desenvolvimento-web\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\DSM\4º Semestre - 2025\laboratorio-de-desenvolvimento-web\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\DSM\4º Semestre - 2025\laboratorio-de-desenvolvimento-web\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\DSM\4º Semestre - 2025\laboratorio-de-desenvolvimento-web\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+D:\DSM\4º Semestre - 2025\laboratorio-de-desenvolvimento-web\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+D:\DSM\4º Semestre - 2025\laboratorio-de-desenvolvimento-web\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\obj\Debug\net6.0-windows\MiguelMorandiniSQLServer.csproj.AssemblyReference.cache
+D:\DSM\4º Semestre - 2025\laboratorio-de-desenvolvimento-web\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\obj\Debug\net6.0-windows\MiguelMorandiniSQLServer.Form1.resources
+D:\DSM\4º Semestre - 2025\laboratorio-de-desenvolvimento-web\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\obj\Debug\net6.0-windows\MiguelMorandiniSQLServer.csproj.GenerateResource.cache
+D:\DSM\4º Semestre - 2025\laboratorio-de-desenvolvimento-web\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\obj\Debug\net6.0-windows\MiguelMorandiniSQLServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSM\4º Semestre - 2025\laboratorio-de-desenvolvimento-web\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\obj\Debug\net6.0-windows\MiguelMorandiniSQLServer.AssemblyInfoInputs.cache
+D:\DSM\4º Semestre - 2025\laboratorio-de-desenvolvimento-web\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\obj\Debug\net6.0-windows\MiguelMorandiniSQLServer.AssemblyInfo.cs
+D:\DSM\4º Semestre - 2025\laboratorio-de-desenvolvimento-web\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\obj\Debug\net6.0-windows\MiguelMorandiniSQLServer.csproj.CoreCompileInputs.cache
+D:\DSM\4º Semestre - 2025\laboratorio-de-desenvolvimento-web\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\obj\Debug\net6.0-windows\MiguelMo.85277580.Up2Date
+D:\DSM\4º Semestre - 2025\laboratorio-de-desenvolvimento-web\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\obj\Debug\net6.0-windows\MiguelMorandiniSQLServer.dll
+D:\DSM\4º Semestre - 2025\laboratorio-de-desenvolvimento-web\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\obj\Debug\net6.0-windows\refint\MiguelMorandiniSQLServer.dll
+D:\DSM\4º Semestre - 2025\laboratorio-de-desenvolvimento-web\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\obj\Debug\net6.0-windows\MiguelMorandiniSQLServer.pdb
+D:\DSM\4º Semestre - 2025\laboratorio-de-desenvolvimento-web\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\obj\Debug\net6.0-windows\MiguelMorandiniSQLServer.genruntimeconfig.cache
+D:\DSM\4º Semestre - 2025\laboratorio-de-desenvolvimento-web\MiguelMorandiniSQLServer\MiguelMorandiniSQLServer\obj\Debug\net6.0-windows\ref\MiguelMorandiniSQLServer.dll
